@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ali
 #### eager frontend developer mostly  use React.Js and javascript 
-##### check out my fav project react-twitter
+
 
 Skills:   REACT / JS / HTML / CSS/
 
