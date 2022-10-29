@@ -2,7 +2,7 @@
 #### eager frontend developer mostly  use React.Js and javascript 
 
 
-Skills:   REACT / JS / HTML / CSS/
+Skills:   React.Js / JavaScript / Redux / HTML / CSS / RESTfull API / Material UI
 
 
 
